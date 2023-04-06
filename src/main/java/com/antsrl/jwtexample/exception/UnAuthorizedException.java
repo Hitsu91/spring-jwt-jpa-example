@@ -1,0 +1,4 @@
+package com.antsrl.jwtexample.exception;
+
+public class UnAuthorizedException extends RuntimeException {
+}
